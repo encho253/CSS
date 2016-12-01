@@ -1,0 +1,19 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#some-text {
+    color: #0094ff;
+    font-size: 125%;
+}
+
+.text-header {
+    font-family: Consolas;
+    font-weight: bold;
+}
+
+.text-header::first-letter {
+    font-family: "Edwardian Script ITC";
+    font-size: 300%;
+}
